@@ -36,7 +36,7 @@ If you do not have Discord, you can reach out to me on [Twitter](https://twitter
 ###### Thank you to the following people who helped localize the tweak into these languages.
 
 - 🇵🇸 Arabic - [RickyTheHunter](https://discordapp.com/users/859787484236873788), [Ash](https://twitter.com/ash001_), [Kinda 🦋](https://discordapp.com/users/1029075910298718319), and [HERCULES](https://discordapp.com/users/990813551071469568)
-- 🇨🇳 Chinese (Simplified) - [Gushi](https://twitter.com/gu3hi)
+- 🇨🇳 Chinese (Simplified) - [Gushi](https://twitter.com/Put_Story)
 - 🇹🇼 Chinese (Traditional) - [Oliver Tzeng](https://twitter.com/olivertzeng)
 - 🇭🇷 Croatian - [Akar](https://discordapp.com/users/149482655149326336)
 - 🇩🇰 Danish - [allanyholm](https://discordapp.com/users/265123526489407488)
