@@ -44,7 +44,7 @@ If you do not have Discord, you can reach out to me on [Twitter](https://twitter
 - 🇫🇷 French - [Neptune](https://discordapp.com/users/320597836758777856)
 - 🇩🇪 German - armadillo
 - 🇮🇱 Hebrew - [_adamgaming](https://discordapp.com/users/898525096216522762)
-- 🇮🇩 Indonesian - [Youssef](https://github.com/ywef)
+- 🇮🇩 Indonesian - [Youssef](https://github.com/ywef) and [turtlenecksoup](https://discordapp.com/users/356817937857904641)
 - 🇮🇹 Italian - [baro](https://discordapp.com/users/315645614778089473)
 - 🇯🇵 Japanese - [uz.ra](https://twitter.com/ChromiumCandy)
 - 🇰🇷 Korean - [freshcreamyogurt](https://discordapp.com/users/342834140824993792)
